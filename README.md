@@ -3,10 +3,11 @@
 Welcome to my GitHub! I'm a 3rd year Computer Science student at **McMaster University**, currently working as a **Software Engineering Intern at PointClickCare**.
 
 🌐 **Portfolio:** [arkelziko.com](https://arkelziko.com)
+🌐 **LinkedIn:** [linkedin.com](https://www.linkedin.com/in/arkel-ziko/)
 
 ---
 
-### 🚀 Projects
+### Projects
 
 **RecruiterWho**: anonymous, constructive feedback on recruiters, bringing transparency to the hiring process.
 <br>🔗 [Web App](https://recruiterwho.com) · 🔒 Repo is private
